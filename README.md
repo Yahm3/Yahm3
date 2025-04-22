@@ -4,14 +4,24 @@ Hi! I’m **Innocent**, a Computer Science student at TUT with a passion for tec
 
 #### 🤝 Open to collaborations!
 
-# 🛠️ Tech Stack
+<div align="center">
+<h3>Technologies</h3>
+<hr>
 
-## **Software Development**
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io./badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
+</div>
+<hr>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<div id="views">
+  <h5> View Counter: </h5>
+  <img src="https://komarev.com/ghpvc/?username=INNOCENT-ops806&style=flat-square&color=blue" align="center" alt=""/>
+</div>
+<hr>
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+### :fire: My Stats :
+[![My_Awesome_Stats](https://awesome-github-stats.azurewebsites.net/user-stats/INNOCENT-ops806?cardType=level-alternate&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=sql&logoColor=white)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INNOCENT-ops806&hide_border=true&theme=dark)
