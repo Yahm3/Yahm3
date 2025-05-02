@@ -16,7 +16,7 @@ Hi! I’m **Innocent**, a Computer Science student at TUT with a passion for tec
 <hr>
 <div align="center">
   <h3>Rankings</h3>
-    <img src="https://github-profile-trophy.vercel.app/?username=INNOCENT-ops806&theme=dark">
+    <img src="https://github-profile-trophy.vercel.app/?username=INNOCENT-ops806&theme=algolia">
 </div>
 <hr>
 
