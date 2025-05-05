@@ -12,6 +12,7 @@ Hi! I’m **Innocent**, a Computer Science student at TUT with a passion for tec
 <img src="https://img.shields.io./badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white">
 </div>
 <hr>
 <div align="center">
