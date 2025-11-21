@@ -1,6 +1,6 @@
 ## Hello World 💻
 
-Hi! I’m **Innocent**, a Computer Science student at TUT with a passion for technology, problem-solving, and innovation. My journey includes exploring **cybersecurity**, **software development**, and building tools for **automation**. I enjoy creating solutions that have a real-world impact and learning new technologies along the way.
+Hi! I’m **Innocent**, a Computer Science student at TUT with a passion for technology, problem-solving, and innovation. My journey includes exploring **cybersecurity**, **software development**, and building games. I enjoy creating solutions that have a real-world impact and learning new technologies along the way.
 
 #### 🤝 Open to collaborations!
 
@@ -9,8 +9,6 @@ Hi! I’m **Innocent**, a Computer Science student at TUT with a passion for tec
 <hr>
   
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io./badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
